@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  scroll-behavior: smooth;
+  font-family: var(--ff-primary);
+  color: var(--c-font);
+  line-height: 1.5;
+}
+
+a,
+a:visited,
+a:active,
+a:hover {
+  text-decoration: none;
+}
+
+img {
+  user-select: none;
+}
+
+button {
+  user-select: none;
+  outline: none;
+}
+
+input {
+  outline: none;
+}
+
+b {
+  font-weight: 600;
+}
+
+textarea {
+  resize: none;
+}
+
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
