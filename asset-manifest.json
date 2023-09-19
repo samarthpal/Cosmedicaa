@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Cosmedicaa/static/css/main.2d1b61ab.css",
+    "main.js": "/Cosmedicaa/static/js/main.6a48f72a.js",
+    "static/media/user.png": "/Cosmedicaa/static/media/user.d423124060a8c699ea0a.png",
+    "static/media/youtube.png": "/Cosmedicaa/static/media/youtube.1ee2f39b02cee665a3e2.png",
+    "static/media/facebook.png": "/Cosmedicaa/static/media/facebook.0d6ca15b859dca340ad1.png",
+    "static/media/instagram.png": "/Cosmedicaa/static/media/instagram.c79c0d7ab601eda94c17.png",
+    "static/media/back.png": "/Cosmedicaa/static/media/back.7aff56308a0427bca9c4.png",
+    "index.html": "/Cosmedicaa/index.html",
+    "main.2d1b61ab.css.map": "/Cosmedicaa/static/css/main.2d1b61ab.css.map",
+    "main.6a48f72a.js.map": "/Cosmedicaa/static/js/main.6a48f72a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d1b61ab.css",
+    "static/js/main.6a48f72a.js"
+  ]
+}
